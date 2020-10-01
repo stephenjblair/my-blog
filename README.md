@@ -5,4 +5,4 @@
 
 Using MongoDB, Express, React and Node.
 
-Hosted on AWS
+Hosted on AWS.
